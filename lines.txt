@@ -1,0 +1,22 @@
+Intro
+    psst. over here. I need your help with something. Just hold your cursor for me. I need to see what i'm doing. Figured even you could manage that.
+Conclusion
+    Alright, brace yourself.
+    "click"
+    Happy birthday!! k about it. Yeah i had light the whole time what about it? Just enjoy your cake maldita sea.
+Lines
+    neutral:
+        that's overmixed isn't it
+        where's the sugar?
+        wait sugar was suppsed to go in first
+        nice, nice
+    Good:
+        we might actually make it
+        we're so back
+    Distracted:
+        focus
+        you're unionized aren't you
+        it's so over
+    Too close:
+        watch the retinas
+        my eyes are up here
